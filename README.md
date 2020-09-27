@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+- 🔭 I’m currently working on [azure.microsoft.com](https://azure.microsoft.com)
+- 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) or [squalr.us](https://squalr.us)
+- 😄 Pronouns: he/him
 
 <!--
 **squalrus/squalrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
