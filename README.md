@@ -16,7 +16,7 @@
 - `2021.01.04`: [Lane 8 - Sunrise Set - Grand Lake, CO](https://www.youtube.com/watch?v=n_LcVqqHSY8)
 - `2021.01.11`: ["Live from Printworks London" Ben Böhmer](https://music.youtube.com/playlist?list=OLAK5uy_maIL8CKIKhROHwEFncm8RrRO4KeVVCMxs)
 - `2021.01.25`: ["Giants" Chicane](https://music.youtube.com/playlist?list=OLAK5uy_maJby3ycUN0n7B_5Ep1phEJK1CpmmzQY8)
-- `2021.02.01`: Mix: Daft Punk
+- `2021.02.01`: [Mix: Daft Punk](https://music.youtube.com/playlist?list=PLH7YWwiPIVPtK3YPqeM7hOtDZTyvD124m)
 
 <!--
 **squalrus/squalrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
