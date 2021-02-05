@@ -4,6 +4,11 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) or [squalr.us](https://squalr.us)
 - 😄 Pronouns: he/him
 
+<!--
+- Transparency: calendar is open and ask anything
+- nohello
+-->
+
 #### Chillout w/ Chad 
 
 - `2020.11.09`: [Mix: Eric Prydz](https://music.youtube.com/playlist?list=PLH7YWwiPIVPt2m_nJ3WYlyxf-BIdAUmUr)
