@@ -1,20 +1,22 @@
 ### Hello there 👋
 
 - 🔭 I'm currently working on [azure.microsoft.com](https://azure.microsoft.com)
-- 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) or [squalr.us](https://squalr.us)
+- 👯 I'm looking to collaborate on a Unity game project.
+- 🎮 I'm currently playing Cyberpunk 2077.
+- 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) | [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us)
 - 😄 Pronouns: he/him
 
 ### Working w/ Chad 💻
 
 - Created date: February 2021
-- Status: work in progress
+- Last modified: February 2021
 
 #### About me
 
 - Work hours for me are typically 7:30AM - 4:30PM PST, and sometimes in the evenings.
 - Family: wife Renee, son Finn (b.2016), daughter Olive (b.2018), two cats Leo and Umbraco.
 - I value honesty, accountability, collaboration, transparency, efficiency, and humility. Call me out if I miss the mark on these!
-- I am passionate about accessibility, design systems, and user experience.
+- I am passionate about accessibility, design systems, performance, and user experience.
 
 #### Guiding principals
 
@@ -40,18 +42,19 @@
 
 - Schedule meetings with an agenda, leave meetings with owners or documentation. An agenda forces pointed conversations in the meeting rather than undirected conversations. Leave with documented outcomes for future reference or for anyone who was unable to attend.
 
-<!--
--  No same day meetings.
-- I trust your time management.
-- If you are feeling overwhelmed, reach out.
-- Own your code reviews. It's a great way to learn and share among the team.
-- I’m always learning and encourage you to share feedback with me in areas I can improve.
-- Work breakdowns are super important and valuable -- understand scope, share the project with the team, and allow us to more accurately share timelines.
-- Everything is negotiable -- reach out if we need to reassess scope.
-- 1:1 time is yours.
-- Transparency: calendar is open and ask anything
-- nohello
--->
+- Avoid same day meetings. They tend to disrupt an already planned out day.
+
+- 1:1 time is yours -- it's completely up to you what you'd like to discuss.
+
+- If you are feeling overwhelmed, stressed out, or drowning in work, reach out. I will work with you to load-balance and modify scope.
+
+- I trust your time management. No need to send updates or end of day mails.
+
+- My calendar is open -- if you see something you want to know more about, or even attend, let me know.
+
+- If you have a question, ask. I prefer [nohello](https://www.nohello.com/).
+
+- I'm always learning and encourage you to share feedback with me in areas I can improve.
 
 ### Chillout w/ Chad 🎧
 
@@ -70,13 +73,6 @@
 
 <!--
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
 
 Chad Schulz (he/him)
 Microsoft | Senior SDE Manager
