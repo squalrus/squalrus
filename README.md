@@ -17,7 +17,7 @@
 - My family is wife Renee, son Finn (b.2016), daughter Olive (b.2018), two cats Leo and Umbraco.
 - I respond quickest to chat, then email, then pull request comments/reviews, then work items.
 - I value honesty, accountability, collaboration, transparency, efficiency, and humility. Call me out if I miss the mark on these!
-- I am passionate about accessibility, design systems, performance, and user experience.
+- I am passionate about accessibility, design systems, front-end performance, user experience, and process improvments.
 
 #### Guiding principals
 
@@ -54,6 +54,8 @@
 - My calendar is public -- if you see something you want to know more about, or even attend, let me know.
 
 - If you have a question, ask! I prefer [nohello](https://www.nohello.com/).
+
+- I recommend this [Learn Collection](https://docs.microsoft.com/en-us/users/squalrus/collections/ype3ie0jdwmx56) for content related to our scope of work. 
 
 - I'm always learning and encourage you to share feedback with me in areas I can improve.
 
