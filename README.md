@@ -14,7 +14,8 @@
 #### About me
 
 - Work hours for me are typically 7:30AM - 4:30PM PST, and sometimes in the evenings.
-- Family: wife Renee, son Finn (b.2016), daughter Olive (b.2018), two cats Leo and Umbraco.
+- My family is wife Renee, son Finn (b.2016), daughter Olive (b.2018), two cats Leo and Umbraco.
+- I respond quickest to chat, then email, then pull request comments/reviews, then work items.
 - I value honesty, accountability, collaboration, transparency, efficiency, and humility. Call me out if I miss the mark on these!
 - I am passionate about accessibility, design systems, performance, and user experience.
 
@@ -26,7 +27,7 @@
 
 #### If you're on my team (this is not in any particular order)
 
-- Due to the distributed nature of our team, the pandemic, and each individuals' needs **consider all communications as async**. We all manage our working hours individually and they may not always overlap across the team. Any email, Teams message, or work item update does **not have to be responded to outside of your working hours**. If possible, consider sending emails with a [delay delivery](https://support.microsoft.com/en-us/office/delay-or-schedule-sending-email-messages-026af69f-c287-490a-a72f-6c65793744ba).
+- Due to the distributed nature of our team, the pandemic, and each individuals' needs consider all communications as async. We all manage our working hours individually and they may not always overlap across the team. Any email, Teams message, or work item update does not have to be responded to outside of your working hours. If possible, consider sending emails with a [delay delivery](https://support.microsoft.com/en-us/office/delay-or-schedule-sending-email-messages-026af69f-c287-490a-a72f-6c65793744ba).
 
 - Make sure to make room for personal time. It is easy to forget to take time off for yourself. It's important to take time away from work and go offline. Don't worry, there will be plenty when you return.
 
@@ -42,17 +43,17 @@
 
 - Schedule meetings with an agenda, leave meetings with owners or documentation. An agenda forces pointed conversations in the meeting rather than undirected conversations. Leave with documented outcomes for future reference or for anyone who was unable to attend.
 
-- Avoid same day meetings. They tend to disrupt an already planned out day.
+- Avoid same day meetings. They can disrupt an already planned out day and do not leave a lot of time to prepare.
 
-- 1:1 time is yours -- it's completely up to you what you'd like to discuss.
+- 1:1 time is yours. Let's chat about what is most pressing for you.
 
-- If you are feeling overwhelmed, stressed out, or drowning in work, reach out. I will work with you to load-balance and modify scope.
+- If you are feeling overwhelmed, stressed out, or drowning in work, reach out. I will work with you to load-balance and/or modify scope.
 
 - I trust your time management. No need to send updates or end of day mails.
 
-- My calendar is open -- if you see something you want to know more about, or even attend, let me know.
+- My calendar is public -- if you see something you want to know more about, or even attend, let me know.
 
-- If you have a question, ask. I prefer [nohello](https://www.nohello.com/).
+- If you have a question, ask! I prefer [nohello](https://www.nohello.com/).
 
 - I'm always learning and encourage you to share feedback with me in areas I can improve.
 
@@ -72,9 +73,7 @@
 - `2020.11.09`: [Mix: Eric Prydz](https://music.youtube.com/playlist?list=PLH7YWwiPIVPt2m_nJ3WYlyxf-BIdAUmUr)
 
 <!--
-Here are some ideas to get you started:
-
 Chad Schulz (he/him)
-Microsoft | Senior SDE Manager
+Microsoft | DevRel | Senior SDE Manager
 [Linkedin](https://www.linkedin.com/in/chadschulz/) | [Twitter](https://twitter.com/chadschulz)
 -->
