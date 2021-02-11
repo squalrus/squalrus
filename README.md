@@ -17,9 +17,9 @@
 - My family is wife Renee, son Finn (b.2016), daughter Olive (b.2018), two cats Leo and Umbraco.
 - I respond quickest to chat, then email, then pull request comments/reviews, then work items.
 - I value honesty, accountability, collaboration, transparency, efficiency, and humility. Call me out if I miss the mark on these!
-- I am passionate about accessibility, design systems, front-end performance, user experience, and process improvments.
+- I am passionate about accessibility, design systems, front-end performance, user experience, and process improvements.
 
-#### Guiding principals
+#### Guiding principles
 
 - Assume good intent. This becomes harder to do when on a remote team across time zones.
 - [Disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit).
