@@ -23,7 +23,7 @@
 
 - Assume good intent. This becomes harder to do when on a remote team across time zones.
 - [Disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit).
-- Emphasis on output, not hours of input/ # of activities.
+- Emphasis on output, not hours of input / number of activities.
 
 #### If you're on my team (this is not in any particular order)
 
@@ -33,15 +33,15 @@
 
 - Many conversations or emails should be the genesis of documentation. Move the updated requirements out of a Teams message, the process update out of a meeting discussion, and the project details out of email.
 
-- Documentations fosters transparency and easily allows information to be shared and collaborated on. The documentation is "living" meaning it's always editable and not "done".
+- Documentations fosters transparency and easily allows information to be shared and collaborated on. The documentation is "living" meaning it's always editable and never "done".
 
 - Centralize the documentation in our wiki, but feel free to link to any other related artifact (Figma, Word doc, etc.) Consider a Word doc when collaborative editing or rich formatting is desired.
 
-- Ask "why". I may be stuck in my ways or not aware of another perspective. If you see room for improvement, let me know.
+- Challenge the status quo. I may be stuck in my ways or not aware of another perspective. If you see room for improvement, let me know.
 
 - Celebrate our wins! We work hard and it takes a lot to ship something. When we do, let's share it with the team and discuss what went well.
 
-- Schedule meetings with an agenda, leave meetings with owners or documentation. An agenda forces pointed conversations in the meeting rather than undirected conversations. Leave with documented outcomes for future reference or for anyone who was unable to attend.
+- Schedule meetings with an agenda, leave meetings with owners or documentation. An agenda forces pointed conversations in the meeting rather than undirected chats. Leave with documented outcomes for future reference or for anyone who was unable to attend.
 
 - Avoid same day meetings. They can disrupt an already planned out day and do not leave a lot of time to prepare.
 
@@ -55,7 +55,7 @@
 
 - If you have a question, ask! I prefer [nohello](https://www.nohello.com/).
 
-- I recommend this [Learn Collection](https://docs.microsoft.com/en-us/users/squalrus/collections/ype3ie0jdwmx56) for content related to our scope of work. 
+- I recommend this [Learn Collection](https://docs.microsoft.com/en-us/users/squalrus/collections/ype3ie0jdwmx56) for content related to our scope of work.
 
 - I'm always learning and encourage you to share feedback with me in areas I can improve.
 
