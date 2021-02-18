@@ -16,7 +16,7 @@
 - Work hours for me are typically 7:30AM - 4:30PM PST, and sometimes in the evenings.
 - My family is wife Renee, son Finn (b.2016), daughter Olive (b.2018), two cats Leo and Umbraco.
 - I respond quickest to chat, then email, then pull request comments/reviews, then work items.
-- I value honesty, accountability, collaboration, transparency, efficiency, and humility. Call me out if I miss the mark on these!
+- I value honesty, accountability, collaboration, transparency, "bringing the team along" (no lone wolf development), efficiency, and humility. Call me out if I miss the mark on these!
 - I am passionate about accessibility, design systems, front-end performance, user experience, and process improvements.
 
 #### Guiding principles
