@@ -61,6 +61,7 @@
 
 ### Chillout w/ Chad 🎧
 
+- `2021.02.22`: [Daft Punk RIP](https://music.youtube.com/playlist?list=PLH7YWwiPIVPuWlWRAy-EjIGU7FuI-bWDX)
 - `2021.02.08`: [Mix: Downtempo II](https://music.youtube.com/playlist?list=PLH7YWwiPIVPtV0fiauhD2fzFQc7Rk1YTt)
 - `2021.02.01`: [Mix: Daft Punk](https://music.youtube.com/playlist?list=PLH7YWwiPIVPtK3YPqeM7hOtDZTyvD124m)
 - `2021.01.25`: ["Giants" Chicane](https://music.youtube.com/playlist?list=OLAK5uy_maJby3ycUN0n7B_5Ep1phEJK1CpmmzQY8)
@@ -76,6 +77,5 @@
 
 <!--
 Chad Schulz (he/him)
-Microsoft | DevRel | Senior SDE Manager
-[Linkedin](https://www.linkedin.com/in/chadschulz/) | [Twitter](https://twitter.com/chadschulz)
+Senior SDE Manager | Growth Engineering
 -->
