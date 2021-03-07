@@ -2,14 +2,14 @@
 
 - 🔭 I'm currently working on [azure.microsoft.com](https://azure.microsoft.com)
 - 👯 I'm looking to collaborate on a Unity game project.
-- 🎮 I'm currently playing Cyberpunk 2077.
+- 🎮 I'm currently playing Call of the Sea & Cyberpunk 2077.
 - 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) | [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us)
 - 😄 Pronouns: he/him
 
 ### Working w/ Chad 💻
 
 - Created date: February 2021
-- Last modified: February 2021
+- Last modified: March 2021
 
 #### About me
 
