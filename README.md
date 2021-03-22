@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on [azure.microsoft.com](https://azure.microsoft.com)
 - 👯 I'm looking to collaborate on a Unity game project.
-- 🎮 I'm currently playing Call of the Sea & Cyberpunk 2077.
+- 🎮 I'm currently play(ing|ed): [Obduction](https://www.microsoft.com/en-us/p/obduction/9pbntdxgxhb1), [What Remains of Edith Finch](https://www.microsoft.com/en-us/p/what-remains-of-edith-finch/bslglg8p9t01) & [Cyberpunk 2077](https://www.microsoft.com/en-us/p/cyberpunk-2077/bx3m8l83bbrw).
 - 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) | [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us)
 - 😄 Pronouns: he/him
 
