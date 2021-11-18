@@ -37,6 +37,8 @@
 
 - Centralize the documentation in our wiki, but feel free to link to any other related artifact (Figma, Word doc, etc.) Consider a Word doc when collaborative editing or rich formatting is desired.
 
+- Live every project like you're going to write a blog post about it.
+
 - Challenge the status quo. I may be stuck in my ways or not aware of another perspective. If you see room for improvement, let me know.
 
 - Celebrate our wins! We work hard and it takes a lot to ship something. When we do, let's share it with the team and discuss what went well.
