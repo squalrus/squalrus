@@ -2,14 +2,14 @@
 
 - 🔭 I'm currently working on [azure.microsoft.com](https://azure.microsoft.com)
 - 👯 I'm looking to collaborate on a Unity game project.
-- 🎮 I'm currently playing/watching: [Halo Infinite](https://www.xbox.com/en-us/games/store/halo-infinite-campaign/9np1p1wfs0lb), [How to with John Wilson](https://www.hbo.com/how-to-with-john-wilson), [Don't Look Up](https://www.netflix.com/title/81252357), [30 Rock](https://www.hulu.com/series/30-rock-44e1031e-f7ac-443d-86d2-7a2eaa26ed5b) (again).
+- 🎮 I'm currently playing/watching: [Horizon Zero Dawn](https://store.playstation.com/en-us/product/UP9000-CUSA10237_00-HRZCE00000000000), [Halo Infinite](https://www.xbox.com/en-us/games/store/halo-infinite-campaign/9np1p1wfs0lb), [How to with John Wilson](https://www.hbo.com/how-to-with-john-wilson).
 - 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) | [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us)
 - 😄 Pronouns: he/him
 
 ### Working w/ Chad 💻
 
 - Created date: February 2021
-- Last modified: January 2022
+- Last modified: March 2022
 
 #### About me
 
