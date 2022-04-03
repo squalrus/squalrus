@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on [azure.microsoft.com](https://azure.microsoft.com)
 - 👯 I'm looking to collaborate on a Unity game project.
-- 🎮 I'm currently playing/watching: [Horizon Zero Dawn](https://store.playstation.com/en-us/product/UP9000-CUSA10237_00-HRZCE00000000000), [Halo Infinite](https://www.xbox.com/en-us/games/store/halo-infinite-campaign/9np1p1wfs0lb), [How to with John Wilson](https://www.hbo.com/how-to-with-john-wilson).
+- 🎮 I'm currently playing/watching: [Horizon Zero Dawn](https://store.playstation.com/en-us/product/UP9000-CUSA10237_00-HRZCE00000000000), [FAR: Changing Tides](https://www.xbox.com/en-us/games/store/far-changing-tides/9n29vz9lrnnq), [Halo Infinite](https://www.xbox.com/en-us/games/store/halo-infinite-campaign/9np1p1wfs0lb), [How to with John Wilson](https://www.hbo.com/how-to-with-john-wilson).
 - 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) | [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us)
 - 😄 Pronouns: he/him
 
@@ -13,11 +13,11 @@
 
 #### About me
 
-- Work hours for me are typically 7:30AM - 4:30PM PST, and sometimes in the evenings.
+- Work hours for me are typically 8:00AM - 4:30PM Pacific Time, and sometimes in the evenings.
 - My family is wife Renee, son Finn (b.2016), and daughter Olive (b.2018).
 - I respond quickest to Teams messages, then email, then pull request comments/reviews, then work items.
 - I value honesty, accountability, collaboration, transparency, "bringing the team along" (no lone wolf development), efficiency, and humility. Call me out if I miss the mark on these!
-- I am passionate about accessibility, design systems, front-end performance, user experience, and process improvements.
+- I am passionate about the web and how people use it, accessibility, design systems, front-end performance, user experience, and process and planning evolution.
 
 #### Guiding principles
 
@@ -31,7 +31,7 @@
 
 - Make sure to make room for personal time. It is easy to forget to take time off for yourself. It's important to take time away from work and go offline. Don't worry, there will be plenty to do when you return.
 
-- Every meeting needs a Purpose and Objective -- why are we here and what do we need to get out of the meeting. Feel free to decline meetings that do not have a Purpose and Objective. Also trying out a document for every meeting, ideally pre-filled and providing space in the meeting to read it.
+- Every meeting needs a Purpose and Objective -- why are we here and what do we need to get out of the meeting. Feel free to decline meetings that do not have a Purpose or Objective. Also trying out a document for every meeting, ideally pre-filled and providing space in the meeting to read it.
 
 - Avoid same day meetings. They can disrupt an already planned out day and do not leave a lot of time to prepare.
 
