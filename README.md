@@ -19,6 +19,12 @@
 - I value honesty, accountability, collaboration, transparency, "bringing the team along" (no lone wolf development), efficiency, and humility. Call me out if I miss the mark on these!
 - I am passionate about the web and how people use it, accessibility, design systems, front-end performance, user experience, and process and planning evolution.
 
+#### What I enjoy doing
+
+- Generating excitement and clarity within a team
+- Building systems and solutions for real people
+- Being creative to solve complex, impactful problems
+
 #### Guiding principles
 
 - Assume good intent.
