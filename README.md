@@ -2,21 +2,22 @@
 
 - 🔭 I'm currently working on [azure.microsoft.com](https://azure.microsoft.com)
 - 👯 I'm looking to collaborate on a Unity game project.
-- 🎮 I'm currently playing/watching: [Horizon Zero Dawn](https://store.playstation.com/en-us/product/UP9000-CUSA10237_00-HRZCE00000000000), [FAR: Changing Tides](https://www.xbox.com/en-us/games/store/far-changing-tides/9n29vz9lrnnq), [Halo Infinite](https://www.xbox.com/en-us/games/store/halo-infinite-campaign/9np1p1wfs0lb), [How to with John Wilson](https://www.hbo.com/how-to-with-john-wilson).
+- 🎮 I'm currently playing/watching: [HOT WHEELS UNLEASHED™](https://www.xbox.com/en-US/games/store/hot-wheels-unleashed-xbox-series-xs/9NSQBVH6ZC9Z), [The Mandalorian](https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD), [Stranger Things](https://www.netflix.com/watch/80077368), [Horizon Zero Dawn](https://store.playstation.com/en-us/product/UP9000-CUSA10237_00-HRZCE00000000000).
 - 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) | [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us)
 - 😄 Pronouns: he/him
 
 ### Working w/ Chad 💻
 
 - Created date: February 2021
-- Last modified: March 2022
+- Last modified: June 2022
 
 #### About me
 
 - Work hours for me are typically 8:00AM - 4:30PM Pacific Time, and sometimes in the evenings.
 - My family is wife Renee, son Finn (b.2016), and daughter Olive (b.2018).
+- Hobbies include: coffee (drinking / roasting), cooking, baking, pickling, beer (drinking / brewing), video games, music.
 - I respond quickest to Teams messages, then email, then pull request comments/reviews, then work items.
-- I value honesty, accountability, collaboration, transparency, "bringing the team along" (no lone wolf development), efficiency, and humility. Call me out if I miss the mark on these!
+- I value honesty, accountability, collaboration, transparency, authenticity, "bringing the team along" (no lone wolf development), efficiency, and humility. Call me out if I miss the mark on these!
 - I am passionate about the web and how people use it, accessibility, design systems, front-end performance, user experience, and process and planning evolution.
 
 #### What I enjoy doing
