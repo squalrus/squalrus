@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-- 🔭 I'm currently working on [azure.microsoft.com](https://azure.microsoft.com)
+- 🔭 I'm currently working on internal web projects, [customers.microsoft.com](https://customers.microsoft.com), [azure.microsoft.com](https://azure.microsoft.com)
 - 👯 I'm looking to collaborate on a Unity game project.
-- 🎮 I'm currently playing/watching: [HOT WHEELS UNLEASHED™](https://www.xbox.com/en-US/games/store/hot-wheels-unleashed-xbox-series-xs/9NSQBVH6ZC9Z), [The Mandalorian](https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD), [Stranger Things](https://www.netflix.com/watch/80077368), [Horizon Zero Dawn](https://store.playstation.com/en-us/product/UP9000-CUSA10237_00-HRZCE00000000000).
+- 🎮 I'm currently playing/watching: [Unravel](https://www.xbox.com/en-us/games/store/Unravel/C11KKHB5H7QJ).
 - 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) | [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us)
 - 😄 Pronouns: he/him
 
