@@ -1,30 +1,30 @@
 ### Hello there 👋
 
-- 🔭 I'm currently working on internal web projects, [customers.microsoft.com](https://customers.microsoft.com), [azure.microsoft.com](https://azure.microsoft.com)
+- 🖱️ I'm currently working on internal web projects, [customers.microsoft.com](https://customers.microsoft.com), [azure.microsoft.com](https://azure.microsoft.com)
 - 👯 I'm looking to collaborate on a Unity game project.
-- 🎮 I'm currently playing/watching: [Unravel](https://www.xbox.com/en-us/games/store/Unravel/C11KKHB5H7QJ).
+- 🎮 I'm currently playing/watching: [TUNIC](https://tunicgame.com/).
 - 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) | [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us)
 - 😄 Pronouns: he/him
 
 ### Working w/ Chad 💻
 
 - Created date: February 2021
-- Last modified: June 2022
+- Last modified: December 2022
 
 #### About me
 
 - Work hours for me are typically 8:00AM - 4:30PM Pacific Time, and sometimes in the evenings.
 - My family is wife Renee, son Finn (b.2016), and daughter Olive (b.2018).
-- Hobbies include: coffee (drinking / roasting), cooking, baking, pickling, beer (drinking / brewing), video games, music.
+- Hobbies include: coffee (drinking / roasting), cooking, baking, pickling, beer (drinking / brewing), video games, and music (listening / concerts).
 - I respond quickest to Teams messages, then email, then pull request comments/reviews, then work items.
 - I value honesty, accountability, collaboration, transparency, authenticity, "bringing the team along" (no lone wolf development), efficiency, and humility. Call me out if I miss the mark on these!
 - I am passionate about the web and how people use it, accessibility, design systems, front-end performance, user experience, and process and planning evolution.
 
 #### What I enjoy doing
 
-- Generating excitement and clarity within a team
-- Building systems and solutions for real people
-- Being creative to solve complex, impactful problems
+- Generating excitement and clarity within a team.
+- Building systems and solutions for real people.
+- Being creative to solve complex, impactful problems.
 
 #### Guiding principles
 
