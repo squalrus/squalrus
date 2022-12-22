@@ -2,11 +2,13 @@
 
 ## Resources
 
-- **CodePen**: https://codepen.io/squalrus/pen/rNrNKXd
+- **Study Guide: Flexbox**: https://codepen.io/squalrus/pen/rNrNKXd
+- **Study Guide: CSS Grid**: https://codepen.io/squalrus/pen/rNrNKXd
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://css-tricks.com/snippets/css/complete-guide-grid/
+- https://learn.microsoft.com/en-us/training/paths/accessibility-fundamentals/
 
-## Flexbox
+## Flexbox ✅
 
 ### `display`
 
@@ -66,16 +68,135 @@ Item property that overrides the alignment of the item, same values as `align-it
 
 ### CodePen
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="rNrNKXd" data-user="squalrus" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/squalrus/pen/rNrNKXd">
+<iframe height="300" style="width: 100%;" scrolling="no" title="Study Guide" src="https://codepen.io/squalrus/embed/rNrNKXd?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/squalrus/pen/rNrNKXd">
   Study Guide</a> by Chad (<a href="https://codepen.io/squalrus">@squalrus</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 ## CSS Grid
 
-## Accessibility
+### `display`
+
+Set to `grid` to create a grid layout, or to `inline-grid` to create an inline grid layout.
+
+### `grid-template-columns`
+
+Establishes the column layout based on the numbers/values provided.
+
+### `grid-template-rows`
+
+Establishes the row layout based on the numbers/values provided.
+
+### `grid-template-areas`
+
+Leverages `grid-area` to define a grid template.
+
+### `grid-template`
+
+Shorthand for `grid-template-rows` + `grid-template-columns` + `grid-template-areas`. Values can be `none`, `grid-template-rows / grid-template-columns`.
+
+### `column-gap`
+
+Sets the size of the vertical grid lines (gutters).
+
+### `row-gap`
+
+Sets the size of the horizontal grid lines (gutters).
+
+### `gap`
+
+Shorthand for `row-gap` and `column-gap`.
+
+### `justify-items`
+
+Align the grid items along the horizontal axis. `start`, `end`, `center`, and `stretch`.
+
+### `align-items`
+
+Align the grid items along the vertical axis. `start`, `end`, `center`, `stretch`, and `baseline`.
+
+### `place-items`
+
+Shorthand for `justify-items` and `align-items`. `align-items / justify-items`.
+
+### `justify-content`
+
+Aligns the grid items within the grid container on the horizontal (row) axis. `start`, `end`, `center`, `stretch`, `space-around`, `space-beteen`, and `space-evenly`.
+
+### `align-content`
+
+Aligns the grid items within the grid container on the vertical (column) axis. `start`, `end`, `center`, `stretch`, `space-around`, `space-beteen`, and `space-evenly`.
+
+### `place-content`
+
+Shorthand for `justify-content` and `align-content`. `align-content / justify-content`.
+
+### `grid-auto-columns`
+
+Defines the implicit column size for an element placed outside the defined grid.
+
+### `grid-auto-rows`
+
+Defines the implicit row size for an element placed outside of the defined grid.
+
+### `grid-auto-flow`
+
+Defines how to organize items that aren't explicitly placed on the grid. `row`, `columns`, and `dense`.
+
+### `grid`
+
+Shorthand for setting `grid-template-rows`, `grid-template-columns`, `grid-template-areas`, `grid-auto-rows`, `grid-auto-columns`, and `grid-auto-flow`.
+
+### `grid-column-start`
+
+Item property to set the column starting position.
+
+### `grid-column-end`
+
+Item property to set the column ending position.
+
+### `grid-row-start`
+
+Item property to set the row position start.
+
+### `grid-row-end`
+
+Item property to set the row position end.
+
+### `grid-column`
+
+Shorthand for `grid-column-start / grid-column-end`.
+
+### `grid-row`
+
+Shorthand for `grid-row-start / grid-row-end`.
+
+### `grid-area`
+
+Gives a name to be referenced by the grid container template.
+
+### `justify-self`
+
+Item property that sets the horizontal alignment for the item. `start`, `end`, `center`, and `stretch`.
+
+### `align-self`
+
+Item property that sets the horizontal alignment for the item. `start`, `end`, `center`, and `stretch`.
+
+### `place-self`
+
+Shorthand for `justify-self` and `align-self`.
+
+### CodePen
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Study Guide: CSS Grid" src="https://codepen.io/squalrus/embed/MWBwJap?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/squalrus/pen/MWBwJap">
+  Study Guide: CSS Grid</a> by Chad Schulz (<a href="https://codepen.io/squalrus">@squalrus</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+## Accessibility ✅
 
 ## Responsive Design
 
