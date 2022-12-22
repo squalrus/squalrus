@@ -2,11 +2,12 @@
 
 ## Resources
 
-- **Study Guide: Flexbox**: https://codepen.io/squalrus/pen/rNrNKXd
-- **Study Guide: CSS Grid**: https://codepen.io/squalrus/pen/rNrNKXd
+- **Study Guide: Flexbox**: https://codepen.io/squalrus/pen/rNrNKXd?editors=1100
+- **Study Guide: CSS Grid**: https://codepen.io/squalrus/pen/MWBwJap?editors=1100
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://css-tricks.com/snippets/css/complete-guide-grid/
 - https://learn.microsoft.com/en-us/training/paths/accessibility-fundamentals/
+- https://learn.microsoft.com/en-us/training/paths/react/
 
 ## Flexbox ✅
 
@@ -66,15 +67,7 @@ Item property shorthand for `flex-grow` + `flex-shrink` + `flex-basis`.
 
 Item property that overrides the alignment of the item, same values as `align-items`.
 
-### CodePen
-
-<iframe height="300" style="width: 100%;" scrolling="no" title="Study Guide" src="https://codepen.io/squalrus/embed/rNrNKXd?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/squalrus/pen/rNrNKXd">
-  Study Guide</a> by Chad (<a href="https://codepen.io/squalrus">@squalrus</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
-
-## CSS Grid
+## CSS Grid ✅
 
 ### `display`
 
@@ -187,14 +180,6 @@ Item property that sets the horizontal alignment for the item. `start`, `end`, `
 ### `place-self`
 
 Shorthand for `justify-self` and `align-self`.
-
-### CodePen
-
-<iframe height="300" style="width: 100%;" scrolling="no" title="Study Guide: CSS Grid" src="https://codepen.io/squalrus/embed/MWBwJap?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/squalrus/pen/MWBwJap">
-  Study Guide: CSS Grid</a> by Chad Schulz (<a href="https://codepen.io/squalrus">@squalrus</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
 
 ## Accessibility ✅
 
