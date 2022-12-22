@@ -1,12 +1,12 @@
 # Study Guide
 
-**CodePen**: https://codepen.io/squalrus/pen/rNrNKXd
+## Resources
+
+- **CodePen**: https://codepen.io/squalrus/pen/rNrNKXd
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://css-tricks.com/snippets/css/complete-guide-grid/
 
 ## Flexbox
-
-### Resources
-
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ### `display`
 
@@ -64,9 +64,16 @@ Item property shorthand for `flex-grow` + `flex-shrink` + `flex-basis`.
 
 Item property that overrides the alignment of the item, same values as `align-items`.
 
-## CSS Grid
+### CodePen
 
-- https://css-tricks.com/snippets/css/complete-guide-grid/
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="rNrNKXd" data-user="squalrus" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/squalrus/pen/rNrNKXd">
+  Study Guide</a> by Chad (<a href="https://codepen.io/squalrus">@squalrus</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+## CSS Grid
 
 ## Accessibility
 
