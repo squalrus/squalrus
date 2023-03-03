@@ -15,7 +15,7 @@
 
 - Work hours for me are typically 8:00AM - 4:30PM Pacific Time, and sometimes in the evenings.
 - My family is wife Renee, son Finn (b.2016), and daughter Olive (b.2018).
-- Hobbies include: music (listening / vinyl records / concerts), coffee (drinking / roasting), cooking, baking, pickling, beer (enjoying / brewing), and video games.
+- Hobbies include: music (listening / vinyl records / concerts), coffee (drinking / roasting), volunteering ([PNA](https://www.phinneycenter.org/)), cooking, baking, pickling, beer (enjoying / brewing), and video games.
 - I respond quickest to Teams messages, then email, then pull request comments/reviews, then work items.
 - I value honesty, accountability, collaboration, transparency, authenticity, "bringing the team along" (no lone wolf development), efficiency, and humility. Call me out if I miss the mark on these!
 - I am passionate about the web and how people use it, accessibility, design systems, front-end performance, user experience, and process and planning evolution.
