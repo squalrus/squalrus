@@ -2,20 +2,20 @@
 
 - 🖱️ I'm currently working on internal web projects, [customers.microsoft.com](https://customers.microsoft.com), [azure.microsoft.com](https://azure.microsoft.com)
 - 👯 I'm looking to collaborate on a Unity game project.
-- 🎮 I'm currently playing/watching: [TUNIC](https://tunicgame.com/).
+- 🎮 I'm currently playing/watching: [The Last of Us](https://www.hbo.com/the-last-of-us/season-1).
 - 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) | [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us)
 - 😄 Pronouns: he/him
 
 ### Working w/ Chad 💻
 
 - Created date: February 2021
-- Last modified: December 2022
+- Last modified: March 2023
 
 #### About me
 
 - Work hours for me are typically 8:00AM - 4:30PM Pacific Time, and sometimes in the evenings.
 - My family is wife Renee, son Finn (b.2016), and daughter Olive (b.2018).
-- Hobbies include: coffee (drinking / roasting), cooking, baking, pickling, beer (drinking / brewing), video games, and music (listening / concerts).
+- Hobbies include: music (listening / vinyl records / concerts), coffee (drinking / roasting), cooking, baking, pickling, beer (enjoying / brewing), and video games.
 - I respond quickest to Teams messages, then email, then pull request comments/reviews, then work items.
 - I value honesty, accountability, collaboration, transparency, authenticity, "bringing the team along" (no lone wolf development), efficiency, and humility. Call me out if I miss the mark on these!
 - I am passionate about the web and how people use it, accessibility, design systems, front-end performance, user experience, and process and planning evolution.
