@@ -2,14 +2,14 @@
 
 - 🖱️ I'm currently working on internal web projects, [customers.microsoft.com](https://customers.microsoft.com), [azure.microsoft.com](https://azure.microsoft.com)
 - 👯 I'm looking to collaborate on a Unity game project.
-- 🎮 I'm currently playing/watching: Legend of Zelda: Tears of the Kingdom.
-- 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) | [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us)
+- 🎮 I'm currently playing/watching: Super Mario Bros. Wonder, Legend of Zelda: Tears of the Kingdom.
+- 📫 How to reach me: [Twitter](https://twitter.com/chadschulz) | [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us) | [last.fm](https://www.last.fm/user/squalrus)
 - 😄 Pronouns: he/him
 
 ### Working w/ Chad 💻
 
 - Created date: February 2021
-- Last modified: October 2023
+- Last modified: January 2024
 
 #### About me
 
