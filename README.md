@@ -1,15 +1,15 @@
 ### Hello there 👋
 
-- 🖱️ I'm currently working on internal web projects, [customers.microsoft.com](https://customers.microsoft.com), [azure.microsoft.com](https://azure.microsoft.com)
+- 🖱️ I'm currently working on internal web projects.
 - 👯 I'm looking to collaborate on a Unity game project.
-- 🎮 I'm currently playing/watching: [Death's Door](https://www.xbox.com/en-us/games/store/deaths-door/9ndz7nxff622), [Cocoon](https://www.xbox.com/en-us/games/store/cocoon/9n3fps4ldhcr).
+- 🎮 I'm currently playing/watching: [Indiana Jones and the Great Circle](https://www.xbox.com/en-in/games/indiana-jones-and-the-great-circle), [Pokemon Pocket](https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=en-US), [Pokemon TCG](https://www.pokemon.com/us/pokemon-tcg).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us) | [last.fm](https://www.last.fm/user/squalrus)
 - 😄 Pronouns: he/him
 
 ### Working w/ Chad 💻
 
 - Created date: February 2021
-- Last modified: March 2024
+- Last modified: February 2025
 
 #### About me
 
