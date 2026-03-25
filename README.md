@@ -1,22 +1,22 @@
 ### Hello there 👋
 
-- 🖱️ I'm currently working on internal web projects.
+- 🖱️ I'm currently a Senior Consultant at [Dura Digital](https://www.duradigital.com/).
 - 👯 I'm looking to collaborate on a Unity game project.
-- 🎮 I'm currently playing/watching: [Indiana Jones and the Great Circle](https://www.xbox.com/en-in/games/indiana-jones-and-the-great-circle), [Pokemon Pocket](https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=en-US), [Pokemon TCG](https://www.pokemon.com/us/pokemon-tcg).
+- 🎮 I'm currently playing/watching: [ARC Raiders](https://arcraiders.com/), [Pokemon TCG](https://www.pokemon.com/us/pokemon-tcg).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us) | [last.fm](https://www.last.fm/user/squalrus)
 - 😄 Pronouns: he/him
 
 ### Working w/ Chad 💻
 
+- Last modified: March 2026
 - Created date: February 2021
-- Last modified: February 2025
 
 #### About me
 
 - Work hours for me are typically 8:00AM - 4:30PM Pacific Time, and sometimes in the evenings.
 - My family is wife Renee, son Finn (b.2016), and daughter Olive (b.2018).
 - Hobbies include: music (listening / vinyl records / concerts), coffee (drinking / roasting), volunteering ([PNA](https://www.phinneycenter.org/)), cooking, pickling, and video games.
-- I respond quickest to Teams messages, then email, then pull request comments/reviews, then work items.
+- I respond quickest to direct messages, then email, then pull request comments/reviews, then work items.
 - I value honesty, accountability, collaboration, transparency, authenticity, "bringing the team along" (no lone wolf development), efficiency, and humility. Call me out if I miss the mark on these!
 - I am passionate about the web and how people use it, accessibility, design systems, front-end performance, user experience, and process and planning evolution.
 
@@ -34,7 +34,7 @@
 
 #### If you're on my team (this is not in any particular order)
 
-- Due to the distributed nature of our team, the pandemic, and each individuals' needs consider all communications as async. We all manage our working hours individually and they may not always overlap across the team. Any email, Teams message, or work item update does not have to be responded to outside of your working hours. If possible, consider sending emails with a [delay delivery](https://support.microsoft.com/en-us/office/delay-or-schedule-sending-email-messages-026af69f-c287-490a-a72f-6c65793744ba).
+- Due to the distributed nature of our team and each individuals' needs consider all communications as async. We all manage our working hours individually and they may not always overlap across the team. Any email, direct message, or work item update does not have to be responded to outside of your working hours. If possible, consider sending emails with a [delay delivery](https://support.microsoft.com/en-us/office/delay-or-schedule-sending-email-messages-026af69f-c287-490a-a72f-6c65793744ba).
 
 - Make sure to make room for personal time. It is easy to forget to take time off for yourself. It's important to take time away from work and go offline. Don't worry, there will be plenty to do when you return.
 
@@ -62,11 +62,4 @@
 
 - If you have a question, ask! I prefer [nohello](https://www.nohello.com/).
 
-- I recommend this [Learn Collection](https://docs.microsoft.com/en-us/users/squalrus/collections/ype3ie0jdwmx56) for content related to our scope of work.
-
 - I'm always learning and encourage you to share feedback with me in areas I can improve.
-
-<!--
-Chad Schulz (he/him)
-Principal SDE Manager | azure.com
--->
