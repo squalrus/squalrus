@@ -13,7 +13,7 @@ This is a personal profile and collaboration hub for Chad Schulz (`squalrus`). T
 - 🎮 I'm currently playing/watching: [ARC Raiders](https://arcraiders.com/), [Pokemon TCG](https://www.pokemon.com/us/pokemon-tcg).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chadschulz/).
 
-## About me
+## About me 🧑‍💼
 
 - Work hours are typically 8:00AM - 4:30PM Pacific Time, with occasional evening work.
 - Family: wife Renee, son Finn (b.2016), and daughter Olive (b.2018).
@@ -22,19 +22,19 @@ This is a personal profile and collaboration hub for Chad Schulz (`squalrus`). T
 - Values: honesty, accountability, collaboration, transparency, authenticity, "bringing the team along", efficiency, humility.
 - Passion: web UX, accessibility, design systems, front-end performance, and process/plan evolution.
 
-## What I enjoy doing
+## What I enjoy doing 🎯
 
 - Generating excitement and team clarity.
 - Building systems and solutions for real people.
 - Using creativity to solve complex problems.
 
-## Values and Principles
+## Values and Principles 💡
 
 - Assume good intent.
 - [Disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit).
 - Emphasis on output, not hours.
 
-## Team Guidelines
+## Team Guidelines 🧭
 
 - Assume async communication across distributed teams.
 - Personal time is important; take time off, recharge, and return with clear priorities.
