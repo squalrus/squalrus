@@ -1,65 +1,53 @@
-### Hello there 👋
+﻿# squalrus
+
+[![License](https://img.shields.io/badge/license-MIT-blue)](#)
+[![Status](https://img.shields.io/badge/status-active-green)](#)
+[![Last Updated](https://img.shields.io/badge/last_updated-March%202026-orange)](#)
+
+This is a personal profile and collaboration hub for Chad Schulz (`squalrus`). The goal is to make working together efficient, respectful, and high-impact.
+
+## Hello there 👋
 
 - 🖱️ I'm currently a Senior Consultant at [Dura Digital](https://www.duradigital.com/).
 - 👯 I'm looking to collaborate on a Unity game project.
 - 🎮 I'm currently playing/watching: [ARC Raiders](https://arcraiders.com/), [Pokemon TCG](https://www.pokemon.com/us/pokemon-tcg).
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chadschulz/) | [squalr.us](https://squalr.us) | [last.fm](https://www.last.fm/user/squalrus)
-- 😄 Pronouns: he/him
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chadschulz/).
 
-### Working w/ Chad 💻
+## About me
 
-- Last modified: March 2026
-- Created date: February 2021
+- Work hours are typically 8:00AM - 4:30PM Pacific Time, with occasional evening work.
+- Family: wife Renee, son Finn (b.2016), and daughter Olive (b.2018).
+- Hobbies: music (listening/vinyl/concerts), coffee (drinking/roasting), volunteering ([PNA](https://www.phinneycenter.org/)), cooking, pickling, and video games.
+- Response speed: direct messages > email > PR comments/reviews > work items.
+- Values: honesty, accountability, collaboration, transparency, authenticity, "bringing the team along", efficiency, humility.
+- Passion: web UX, accessibility, design systems, front-end performance, and process/plan evolution.
 
-#### About me
+## What I enjoy doing
 
-- Work hours for me are typically 8:00AM - 4:30PM Pacific Time, and sometimes in the evenings.
-- My family is wife Renee, son Finn (b.2016), and daughter Olive (b.2018).
-- Hobbies include: music (listening / vinyl records / concerts), coffee (drinking / roasting), volunteering ([PNA](https://www.phinneycenter.org/)), cooking, pickling, and video games.
-- I respond quickest to direct messages, then email, then pull request comments/reviews, then work items.
-- I value honesty, accountability, collaboration, transparency, authenticity, "bringing the team along" (no lone wolf development), efficiency, and humility. Call me out if I miss the mark on these!
-- I am passionate about the web and how people use it, accessibility, design systems, front-end performance, user experience, and process and planning evolution.
-
-#### What I enjoy doing
-
-- Generating excitement and clarity within a team.
+- Generating excitement and team clarity.
 - Building systems and solutions for real people.
-- Being creative to solve complex, impactful problems.
+- Using creativity to solve complex problems.
 
-#### Guiding principles
+## Values and Principles
 
 - Assume good intent.
 - [Disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit).
-- Emphasis on output, not hours of input / number of activities.
+- Emphasis on output, not hours.
 
-#### If you're on my team (this is not in any particular order)
+## Team Guidelines
 
-- Due to the distributed nature of our team and each individuals' needs consider all communications as async. We all manage our working hours individually and they may not always overlap across the team. Any email, direct message, or work item update does not have to be responded to outside of your working hours. If possible, consider sending emails with a [delay delivery](https://support.microsoft.com/en-us/office/delay-or-schedule-sending-email-messages-026af69f-c287-490a-a72f-6c65793744ba).
-
-- Make sure to make room for personal time. It is easy to forget to take time off for yourself. It's important to take time away from work and go offline. Don't worry, there will be plenty to do when you return.
-
-- Every meeting needs a Purpose and Objective -- why are we here and what do we need to get out of the meeting. Feel free to decline meetings that do not have a Purpose or Objective. Also trying out a document for every meeting, ideally pre-filled and providing space in the meeting to read it.
-
-- Avoid same day meetings. They can disrupt an already planned out day and do not leave a lot of time to prepare.
-
-- Treat every project like we're blogging about it. Collect data before we start, take screenshots, and share the outcome and impact.
-
-- Documentation fosters transparency and easily allows information to be shared and collaborated on. The documentation is "living" meaning it's always editable and never "done".
-
-- Centralize the documentation in our wiki, but feel free to link to any other related artifact (Figma, Word doc, etc.) Consider a Word doc when collaborative editing or rich formatting is desired.
-
-- Challenge the status quo. I may be stuck in my ways or not aware of another perspective. If you see room for improvement, let me know.
-
-- Celebrate our wins! We work hard and it takes a lot to ship something. When we do, let's share it with the team and discuss what went well.
-
-- 1:1 time is yours. Let's chat about what is most pressing for you.
-
-- If you are feeling overwhelmed, stressed out, or drowning in work, reach out. I will work with you to load-balance and/or modify scope.
-
-- I trust your time management. No need to send updates or end of day mails.
-
-- My calendar is public -- if you see something you want to know more about, or even attend, let me know.
-
-- If you have a question, ask! I prefer [nohello](https://www.nohello.com/).
-
-- I'm always learning and encourage you to share feedback with me in areas I can improve.
+- Assume async communication across distributed teams.
+- Personal time is important; take time off, recharge, and return with clear priorities.
+- Meetings must have a Purpose and Objective; decline if missing.
+- Avoid same-day meetings unless emergent.
+- Treat projects like a blog: collect data, share results, highlight impact.
+- Documentation is living and should be updated continuously.
+- Centralize docs in a shared wiki, but link related artifacts (Figma, docs, etc.).
+- Challenge the status quo; speak up with better ideas.
+- Celebrate wins and share what went well.
+- 1:1 time is for your priority topics.
+- If overwhelmed, ask for scope help.
+- Trust your time management; no end-of-day updates needed.
+- Calendar is public; ask if you want to know more.
+- Prefer direct questions (nohello style).
+- Continuous feedback is welcome.
