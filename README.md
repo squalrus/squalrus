@@ -17,7 +17,7 @@ This is a personal profile and collaboration hub for Chad Schulz (`squalrus`). T
 
 - Work hours are typically 8:00AM - 4:30PM Pacific Time, with occasional evening work.
 - Family: wife Renee, son Finn (b.2016), and daughter Olive (b.2018).
-- Hobbies: music (listening/vinyl/concerts), coffee (drinking/roasting), volunteering ([PNA](https://www.phinneycenter.org/)), cooking, pickling, and video games.
+- Hobbies: music (listening/vinyl/concerts), coffee (drinking/roasting), volunteering ([PNA](https://www.phinneycenter.org/)), food (baking/cooking/pickling), and video games.
 - Response speed: direct messages > email > PR comments/reviews > work items.
 - Values: honesty, accountability, collaboration, transparency, authenticity, "bringing the team along", efficiency, humility.
 - Passion: web UX, accessibility, design systems, front-end performance, and process/plan evolution.
